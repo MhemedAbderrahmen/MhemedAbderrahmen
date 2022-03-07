@@ -4,6 +4,8 @@
 ### Some technologies I enjoy working with :rocket:
 <div style="text-align:center;">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px">
 </div>
 
 
