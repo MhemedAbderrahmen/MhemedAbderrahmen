@@ -5,9 +5,9 @@
 <p align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="25px">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" width="65px">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" width="85px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="65px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="25px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="65px">
   
   
 </p>
