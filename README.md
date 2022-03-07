@@ -1,7 +1,9 @@
 ### Hi there 👋
 #### I'm Abderrahmen a software engineer and a FullStack JS developer, a VR/AR enthusiast and a Gamer. 
-#### I'm into web developement and modern frameworks such as ReactJS/VueJS
-##
+#### I am passionate about modern frameworks such as ReactJS/VueJS. 
+### Some technologies I enjoy working with :rocket:
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+
 
 <!--
 **MhemedAbderrahmen/MhemedAbderrahmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
