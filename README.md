@@ -2,7 +2,7 @@
 #### I'm Abderrahmen a software engineer and a FullStack JS developer, a VR/AR enthusiast and a Gamer. 
 #### I am passionate about modern frameworks such as ReactJS/VueJS. 
 ### Some technologies I enjoy working with :rocket:
-<div style="text-align:center">  
+<div style="text-align:center;">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px">
 </div>
 
