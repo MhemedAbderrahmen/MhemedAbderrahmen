@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 #### I'm Abderrahmen a software engineer and a FullStack JS developer, a VR/AR enthusiast and a Gamer. 
 #### I am passionate about modern frameworks such as ReactJS/VueJS. 
 ### Some technologies I enjoy working with :rocket:
@@ -13,12 +13,9 @@
   
 </p>
 
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MhemedAbderrahmen)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
