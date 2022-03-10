@@ -13,10 +13,12 @@
   
 </p>
 
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=MhemedAbderrahmen)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
