@@ -16,6 +16,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **MhemedAbderrahmen/MhemedAbderrahmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
