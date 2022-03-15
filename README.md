@@ -11,6 +11,8 @@
   <img src="https://www.pikpng.com/pngl/b/150-1506141_html-css-and-javascript-logo-html5-css3-js.png" width="85px">  
 </p>
 
+### Github Stats 🥇
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
