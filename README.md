@@ -11,9 +11,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 - **Other:** Agile Methodologies, RESTful APIs, Clerk for Authentication
 
 ## 🌟 What I'm Working On
-- **[Homely](https://github.com/abderrahmenmhemed/homely):** A home and grocery management app with a partner system, using Clerk for authentication.
-- **[HubMate](https://github.com/abderrahmenmhemed/hubmate):** A coworking space management platform, built with the T3 stack.
-- **[PromoteThing](https://github.com/abderrahmenmhemed/promotething):** A platform to promote apps and get more visibility.
+- **[Homely](https://github.com/MhemedAbderrahmen/my-home):** A home and grocery management app with a partner system, using Clerk for authentication.
+- **[HubMate](https://github.com/MhemedAbderrahmen/cospace-manager):** A coworking space management platform, built with the T3 stack.
 
 ## 🌱 Currently Learning
 - Exploring new ways to build creative and technically simple SaaS applications.
