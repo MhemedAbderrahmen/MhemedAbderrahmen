@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abderrahmen MHEMED!
+# 👋 Hi, I'm Abderrahmen MHEMED! ![Profile View Counter](https://komarev.com/ghpvc/?username=MhemedAbderrahmen)
 
 ### 💻 Full-Stack Developer | 🧠 Lifelong Learner | 🎨 UI Enthusiast
 
@@ -29,8 +29,8 @@ I'm always on the lookout for creative MVP ideas that solve real-world problems.
 
 ## 📫 Let's Connect
 - **Portfolio:** [abderrahmen.tn](https://abderrahmen.tn)
-- **LinkedIn:** [Abderrahmen MHEMED](https://www.linkedin.com/in/abderrahmenmhemed/)
-- **Twitter:** [@abderrahmen_dev](https://twitter.com/abderrahmen_dev)
+- **LinkedIn:** [Abderrahmen MHEMED](https://www.linkedin.com/in/abderrahmen-mhemed)
+- **Twitter:** [@abderrahmen_dev](https://x.com/abderrahmenmd)
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate, discuss ideas, or just chat about tech.
 
