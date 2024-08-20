@@ -1,31 +1,39 @@
-### Hi there 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=MhemedAbderrahmen)
-#### I'm Abderrahmen a software engineer and a FullStack JS developer, a VR/AR enthusiast and a Gamer. 
-#### I am passionate about modern frameworks such as ReactJS/VueJS. 
-### Some technologies I enjoy working with :rocket:
-<p align="center">  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="25px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="25px">
-  <img src="https://upload.wikimedia.org/wikipedia/fr/4/45/MongoDB-Logo.svg" width="85px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="65px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="45px">
-  <img src="https://www.pikpng.com/pngl/b/150-1506141_html-css-and-javascript-logo-html5-css3-js.png" width="85px">  
-</p>
+# 👋 Hi, I'm Abderrahmen MHEMED!
 
-### Github Stats 🥇
+### 💻 Full-Stack Developer | 🧠 Lifelong Learner | 🎨 UI Enthusiast
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MhemedAbderrahmen&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub profile! I'm a passionate software engineer with a love for building web platforms and tools that solve real problems. I specialize in full-stack development, particularly with the T3 stack (Next.js, Shadcn, TanStack), and I'm always exploring new technologies to enhance my skill set.
 
-<!--
-**MhemedAbderrahmen/MhemedAbderrahmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack & Skills
+- **Frontend:** React.js, Next.js, Shadcn, HTML5, CSS3, Tailwind CSS
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB
+- **Dev Tools:** Git, GitHub, Docker, CI/CD, TDD
+- **Other:** Agile Methodologies, RESTful APIs, Clerk for Authentication
 
-Here are some ideas to get you started:
+## 🌟 What I'm Working On
+- **[Homely](https://github.com/abderrahmenmhemed/homely):** A home and grocery management app with a partner system, using Clerk for authentication.
+- **[HubMate](https://github.com/abderrahmenmhemed/hubmate):** A coworking space management platform, built with the T3 stack.
+- **[PromoteThing](https://github.com/abderrahmenmhemed/promotething):** A platform to promote apps and get more visibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Exploring new ways to build creative and technically simple SaaS applications.
+- Diving deeper into Unity for game development, focusing on quick, impactful game jam projects.
+
+## ✍️ Blog & Writing
+I enjoy sharing my thoughts and experiences on software development, project ideas, and tech trends. Check out my latest posts:
+- **[Building Boostify](https://abderrahmen.tn/blog/boostify):** A behind-the-scenes look at creating a platform for content creators.
+- **[My Journey with the T3 Stack](https://abderrahmen.tn/blog/t3-stack):** How I utilize Next.js, Shadcn, and TanStack in my projects.
+
+## 💡 Project Ideas & MVPs
+I'm always on the lookout for creative MVP ideas that solve real-world problems. Whether it's a tool for developers or a simple SaaS, I'm focused on building solutions that are both technically feasible and impactful.
+
+## 📫 Let's Connect
+- **Portfolio:** [abderrahmen.tn](https://abderrahmen.tn)
+- **LinkedIn:** [Abderrahmen MHEMED](https://www.linkedin.com/in/abderrahmenmhemed/)
+- **Twitter:** [@abderrahmen_dev](https://twitter.com/abderrahmen_dev)
+
+Thanks for stopping by! Feel free to reach out if you want to collaborate, discuss ideas, or just chat about tech.
+
+---
+
+⭐️ From [Abderrahmen MHEMED](https://github.com/abderrahmenmhemed)
