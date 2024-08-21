@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## ✍️ Blog & Writing
 I enjoy sharing my thoughts and experiences on software development, project ideas, and tech trends. Check out my latest posts:
 - **[Building Boostify](https://abderrahmen.tn/blog/boostify):** A behind-the-scenes look at creating a platform for content creators.
-- **[My Journey with the T3 Stack](https://abderrahmen.tn/blog/t3-stack):** How I utilize Next.js, Shadcn, and TanStack in my projects.
+- **[My Journey with the T3 Stack](https://abderrahmen.tn/blog/t3-stack):** How I utilize Next.js, Shadcn, and TanStack in my projects. (WIP)
 
 ## 💡 Project Ideas & MVPs
 I'm always on the lookout for creative MVP ideas that solve real-world problems. Whether it's a tool for developers or a simple SaaS, I'm focused on building solutions that are both technically feasible and impactful.
